@@ -31,7 +31,9 @@ The program can build a "power map" of the ray as well:
 ![image](https://user-images.githubusercontent.com/26975498/164226604-d3b1848b-af18-4bca-aa13-30cdefc80032.png)
 
 And a little bit more complex case:
+
 ![image](https://user-images.githubusercontent.com/26975498/164226696-936439d0-1346-4357-9374-db0508fdfb75.png)
+
 ![image](https://user-images.githubusercontent.com/26975498/164226719-092d1334-e05f-4441-96aa-c4d0602d8d73.png)
 
 
